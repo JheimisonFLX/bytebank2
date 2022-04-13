@@ -1,4 +1,6 @@
-# bytebank2
+# bytebank Integração com Web API
+
+É difícil encontrar uma App que funcione apenas localmente. Eventualmente acabamos precisando integrar com algum serviço externo, alguma API. Nesta seção, você vai aprender a integrar sua App com serviços remotos, lidando também com possíveis erros comuns durante essa comunição.
 
 A new Flutter project.
 
