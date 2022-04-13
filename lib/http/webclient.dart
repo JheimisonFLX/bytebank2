@@ -2,7 +2,6 @@ import 'dart:convert';
 
 import 'package:http/http.dart';
 import 'package:http_interceptor/http_interceptor.dart';
-
 import '../models/contact.dart';
 import '../models/transaction.dart';
 
