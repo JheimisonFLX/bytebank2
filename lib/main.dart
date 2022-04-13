@@ -1,9 +1,10 @@
 import 'package:bytebank/screens/dashboard.dart';
 import 'package:flutter/material.dart';
+import 'http/webclient.dart';
 
 void main() {
   runApp(const BytebankApp());
-  //save(Contact(0, 'teste', 1000));
+  findAll();
 }
 
 class BytebankApp extends StatelessWidget {
